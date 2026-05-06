@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<a href="https://saweria.co/usernamekamu" target="_blank">
+<a href="https://saweria.co/TerimakasihSayang" target="_blank">
   <img src="https://img.shields.io/badge/--FF424D?style=for-the-badge&logo=ko-fi&logoColor=white&label=saweria&labelColor=2B2B2B&color=FF424D" />
 </a>
 
