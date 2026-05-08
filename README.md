@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Channel_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2B2B2B" />
 </a>
 &nbsp;
-<a href="https://whatsapp.com/channel/xxxxxxxxxx" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbDO6LN1yT23j9SJnO0G" target="_blank">
   <img src="https://img.shields.io/badge/Channel_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2B2B2B" />
 </a>
 
