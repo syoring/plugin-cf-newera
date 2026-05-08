@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-<a href="https://instagram.com/usernamekamu" target="_blank">
+<a href="https://www.instagram.com/yipiiiiiii_arara" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2B2B2B" />
 </a>
 
